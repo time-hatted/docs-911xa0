@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-6m1zkk.prompt-gacha.com/sitemap.xml
